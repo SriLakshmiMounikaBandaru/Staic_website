@@ -1,0 +1,13 @@
+.button{
+    height: 46px;
+    width : 148px;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.button-green{
+    background-color : green;
+    color : white;
+}

@@ -1,0 +1,16 @@
+.main-heading{
+    color :blue;
+    font-size: 50px;
+    font-family: "Monoton";
+    text-decoration: underline;
+}
+.paragraph{
+    color : "grey";
+}
+
+.card{
+    text-align : center;
+    background-image : url("https://tse1.mm.bing.net/th?id=OIP.XXfwPRdZIeTLKvGZ9xBx8wHaEo&pid=Api&P=0&h=180");
+    height :100vh;
+    background-size: cover;
+}
